@@ -1,0 +1,1 @@
+ALTER TABLE papers ADD COLUMN pdf_file VARCHAR(255) COMMENT '本地存储的PDF文件名'; 
